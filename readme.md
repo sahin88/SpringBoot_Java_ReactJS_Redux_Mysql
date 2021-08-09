@@ -1,8 +1,8 @@
-# Java_Springboot_FullStack_Blog_APP
+# SpringBoot_Java_ReactJS_Redux_Mysql_Remember_App
 
 
 
-## Running Spring Boot Crud locally
+## Running Spring Boot locally
 BookApp is a [Spring Boot](https://spring.io/guides/gs/spring-boot) application built using [Maven](https://spring.io/guides/gs/maven/). You can build a jar file and run it from the command line:
 
 ### Technologies
@@ -23,10 +23,10 @@ cd Java_Springboot_FullStack_Blog_APP
 java -jar target/*.jar
 ```
 
-You can then access Java_Springboot_FullStack_Blog_APP here: http://localhost:8080/
+You can then accessSpringBoot_Java_ReactJS_Redux_Mysql_Remember_App 
 
-<img width="720" alt="spring_crud_" src="https://github.com/sahin88/Java_Springboot_FullStack_Blog_APP/blob/main/app_1.png">
-<img width="720" alt="spring_crud_" src="https://github.com/sahin88/Java_Springboot_FullStack_Blog_APP/blob/main/app_2.png">
+<img width="720" alt="spring_crud_" src="https://github.com/sahin88/SpringBoot_Java_ReactJS_Redux_Mysql_Remember_App/blob/main/remember_me.png">
+
 
 
 
@@ -53,7 +53,7 @@ The following items should be installed in your system:
 
 1) On the command line
 ```
-git clone https://github.com/sahin88/Java_Springboot_FullStack_Blog_APP
+git clone https://github.com/sahin88/SpringBoot_Java_ReactJS_Redux_Mysql_Remember_App
 ```
 2) Inside Eclipse or STS
 ```
