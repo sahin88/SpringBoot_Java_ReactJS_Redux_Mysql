@@ -37,7 +37,7 @@ Or you can run it from Maven directly using the Spring Boot Maven plugin. If you
 ```
 
 ## Uml Diagramm
-<img width="720" alt="spring_crud_" src="https://github.com/sahin88/Java_Springboot_FullStack_Blog_APP/blob/main/class_diagramm.png">
+<img width="720" alt="spring_crud_" src="https://github.com/sahin88/SpringBoot_Java_ReactJS_Redux_Mysql_Remember_App/blob/main/uml_remember_me.png">
 
 
 
