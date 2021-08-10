@@ -1,0 +1,21 @@
+.home-main-div {
+  width: 100%;
+  height: auto;
+  position: relative;
+  top: 100px;
+
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.home-main-div-right {
+  width: 30%;
+  height: auto;
+  margin-right: 3%;
+}
+
+.home-main-div-left {
+  width: 70%;
+  height: auto;
+}
