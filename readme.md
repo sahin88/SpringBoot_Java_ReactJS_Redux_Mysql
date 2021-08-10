@@ -9,7 +9,7 @@ BookApp is a [Spring Boot](https://spring.io/guides/gs/spring-boot) application 
 The following items  have been  used for this project:
 * Spring Boot.
 * Spring Data JPA & Hibernate
-* Thymleaf&Mysql JDBC Driver
+* ReactJs Redux
 
 ### Software Programms
 
@@ -17,8 +17,8 @@ The following items  have been  used for this project:
 * Spring Tool Suite IDE (sts)
 * MYSQL database server & Workbench
 ```
-https://github.com/sahin88/Java_Springboot_FullStack_Blog_APP
-cd Java_Springboot_FullStack_Blog_APP
+https://github.com/sahin88/SpringBoot_Java_ReactJS_Redux_Mysql_Remember_Ap
+cd SpringBoot_Java_ReactJS_Redux_Mysql_Remember_Ap
 ./mvnw package
 java -jar target/*.jar
 ```
