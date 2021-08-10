@@ -78,7 +78,7 @@ public class ExpenseApplication {
 		for(Events event : eventlist){
 			String pattern_database = "MM-dd";
 			String date_from_db = simpleDateFormat.format(event.getEventDay());
-			System.out.println( date_from_db.equals(date_today));
+			
 			
 			if( date_from_db.equals(date_today)) {
 				sendRememberMail(event.getUser(),event);
