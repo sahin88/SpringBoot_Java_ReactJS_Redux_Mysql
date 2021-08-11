@@ -1,9 +1,10 @@
 # SpringBoot_Java_ReactJS_Redux_Mysql_Remember_App
 
-
+## Usage
+First of all, you can sign up for the app with your email and password after that, you can log in with your user information and save special days , finally on that day at a specific time, you will  be informed  with a remember mail 
 
 ## Running Spring Boot locally
-BookApp is a [Spring Boot](https://spring.io/guides/gs/spring-boot) application built using [Maven](https://spring.io/guides/gs/maven/). You can build a jar file and run it from the command line:
+Remember me  is a [Spring Boot](https://spring.io/guides/gs/spring-boot) application built using [Maven](https://spring.io/guides/gs/maven/). You can build a jar file and run it from the command line:
 
 ### Technologies
 The following items  have been  used for this project:
